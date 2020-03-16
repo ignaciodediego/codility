@@ -1,0 +1,4 @@
+optimizar algoritmo:
+
+usar funciones nativas
+hacer bucles con menor iteración posible
